@@ -6,6 +6,8 @@ To overcome the domain gap between synthetic and real-world datasets, unsupervis
 
 ## Setup environment
 
+We use the mmcv=1.3.7 and mmsegmentation=0.16.0. 
+
 ```
 conda create -n confeti python=3.8
 conda activate confeti
