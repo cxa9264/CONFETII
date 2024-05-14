@@ -13,7 +13,7 @@ prettytable==2.1.0
 pyparsing==2.4.7
 pytz==2020.1
 PyYAML==5.4.1
-scipy==1.6.3
+scipy # ==1.6.3
 seaborn==0.11.1
 timm==0.3.2
 torch==1.7.1+cu110
